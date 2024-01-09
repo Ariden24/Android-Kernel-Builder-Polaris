@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "D8G",
-      "repo": "https://github.com/diphons/D8G_Kernel",
-      "branch": "main",
+      "name": "SilverCore",
+      "repo": "https://github.com/Ariden24/android_kernel_xiaomi_sdm845",
+      "branch": "13.0-23.02.2023",
       "device": "polaris",
       "defconfig": "polaris_defconfig"
     },
