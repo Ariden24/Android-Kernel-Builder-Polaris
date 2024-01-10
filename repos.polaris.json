@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "SilverCore_13",
-      "repo": "https://github.com/Ariden24/android_kernel_xiaomi_sdm845",
-      "branch": "13.0-23.02.2023",
+      "name": "Lineage-20",
+      "repo": "https://github.com/Ariden24/android_kernel_xiaomi_sdm845_lineage",
+      "branch": "lineage-20",
       "device": "polaris",
       "defconfig": "polaris_defconfig"
     },
