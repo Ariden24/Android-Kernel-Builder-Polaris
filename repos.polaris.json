@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "Lineage-20",
-      "repo": "https://github.com/xiaomi-sdm845-devel/kernel_xiaomi_sdm845",
-      "branch": "stable/11",
+      "name": "CrDroid-14-KSU",
+      "repo": "https://github.com/Ariden24/android_kernel_xiaomi_sdm845",
+      "branch": "14.0",
       "device": "polaris",
       "defconfig": "polaris_defconfig"
     },
